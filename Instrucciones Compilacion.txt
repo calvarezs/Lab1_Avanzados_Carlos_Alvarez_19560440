@@ -1,0 +1,3 @@
+En la carpeta "src", en terminal se escribe el comando "make" sin comillas para compilar.
+Para limpiar la compilacion anterior use el comando "make clean" sin comillas
+Para ejecutar utilize el comando ./Puzzle8.out
